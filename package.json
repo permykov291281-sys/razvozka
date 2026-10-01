@@ -1,0 +1,9 @@
+{
+  "name": "razvozka",
+  "version": "1.0.0",
+  "description": "Развозка — веб-сервис диспетчера развозок сотрудников (MVP)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "private": true
+}
